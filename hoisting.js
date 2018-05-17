@@ -14,7 +14,7 @@ thisIsCrazy();
   var thisIsCrazy = function(crazy){
   console.log("hey!!!");
 
-  
+
 
 
 
